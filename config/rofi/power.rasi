@@ -1,0 +1,10 @@
+inputbar {
+  children: [entry];
+}
+
+listview {
+	lines: 3;
+}
+
+    background-color:  @al;
+    text-color: inherit;
