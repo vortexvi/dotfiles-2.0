@@ -1,0 +1,11 @@
+## Padding
+window:
+  padding:
+    x: 15
+    y: 15
+
+## Font Settings
+font:
+  normal:
+    family: "MesloLGS NF"
+
